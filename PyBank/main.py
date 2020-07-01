@@ -5,7 +5,7 @@ import string
 
 
 
-PyBank_csv = os.path.join("Resources/PyBank.csv")
+PyBank_csv = os.path.join('PyBank','Resources', 'PyBank.csv')
 
 total_months= 0
 total_profits=0
