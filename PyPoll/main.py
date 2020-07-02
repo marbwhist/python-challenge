@@ -2,7 +2,7 @@ import os
 import csv
 import numpy as np
 
-election_data = os.path.join('PyPoll.csv')
+election_data = os.path.join('Resources', 'PyPoll.csv')
 
 total_votes=0
 candidate_list=[]
